@@ -9,5 +9,7 @@ It is an extended version of the Import Objects tool, adding features such as:
 
 For the CSV Format, see ioe_example.csv.
 
+Installation: Simply drag the scripts folder into your mod directory.
+
 
 ![Screenshot](IOE.JPG)
