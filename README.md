@@ -5,6 +5,7 @@ It is an extended version of the Import Objects tool, adding features such as:
 - Rotation, Scale and Object Randomization
 - Terrain and Normal Snapping
 - Y Offset
+- Undo and Redo Buttons
 - Support for Vector Angles
 
 For the CSV Format, see ioe_example.csv.
