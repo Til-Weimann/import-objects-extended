@@ -10,4 +10,4 @@ It is an extended version of the Import Objects tool, adding features such as:
 For the CSV Format, see ioe_example.csv.
 
 
-![Screenshot](EPT.JPG)
+![Screenshot](IOE.JPG)
