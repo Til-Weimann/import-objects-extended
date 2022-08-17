@@ -22,7 +22,7 @@ class ImportObjectsExtended: WorldEditorTool
 	[Attribute("1", UIWidgets.EditBox, "Max Randomized Size.", "0.001 1000")]
 	float m_maxSize;
 	
-	[Attribute("0", UIWidgets.CheckBox, "Randomize rotatation of placed objects (otherwise from JSON).")]
+	[Attribute("0", UIWidgets.CheckBox, "Randomize rotatation of placed objects (otherwise from CSV).")]
 	bool m_randomRotation;
 	
 	[Attribute("0", UIWidgets.EditBox, "Random Pitch.", "0 180")]
