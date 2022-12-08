@@ -1,5 +1,5 @@
 # import-objects-extended
-**Import Objects Extended** is a plugin for Enfusion / ArmA Reforger Tools allows you to bulk-place entities using data specified in a CSV file.
+**Import Objects Extended** is a plugin for Enfusion / ArmA Reforger Tools that allows you to bulk-place entities using data specified in a CSV file.
 
 It is an extended version of the Import Objects tool, adding features such as:
 - Rotation, Scale and Object Randomization
