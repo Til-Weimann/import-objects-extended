@@ -166,7 +166,7 @@ class ImportObjectsExtended: WorldEditorTool
 					BaseWorld world = m_API.GetWorld();
 					entity.GetWorldTransform(transform);
 					
-					if (SCR_Global.SnapAndOrientToTerrain(transform, world)) {
+					if (SCR_TerrainHelper.SnapAndOrientToTerrain(transform, world)) {
 						parent = m_API.SourceToEntity(m_API.EntityToSource(entity).GetParent());
 						if (parent)
 						{
